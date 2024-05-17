@@ -98,7 +98,7 @@ para el desarrollo del proyecto ordenado se manejo mediante carpetas separando s
 Para el despliegue del proyecto se utilizo el servicio de railway, el cual es un servicio de alojamiento de aplicaciones web, el cual nos permite desplegar nuestra aplicacion en un servidor de manera rapida y sencilla.
 
 ## Preparativos para inicializar el proyecto
-- El srcipt de la base de datos mySQL se encuentra en la raiz del proyecto para descargar y ejecutar en local **_[Script_mySQL](/zTechnology.sql)_**
+- El srcipt de la base de datos mySQL se encuentra en la raiz del proyecto para descargar y ejecutar en local **_[Script_mySQL](/DOCS/Ztecnology-app.sql)_**
 
 - Si no tienes instalado la aplicacion de mySQL , puedes descargarlo desde el siguiente **_[enlace](https://dev.mysql.com/downloads/mysql/)_** 
 
